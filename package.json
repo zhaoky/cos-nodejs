@@ -1,6 +1,6 @@
 {
-  "name": "cos-cdn",
-  "version": "1.0.1",
+  "name": "@fe_korey/cos-cdn",
+  "version": "1.0.0",
   "description": "cos-nodejs-sdk-v5 upload static assests to cloud.tencent cdn",
   "main": "lib/Cos.js",
   "bin": {
